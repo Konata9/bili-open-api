@@ -1,0 +1,20 @@
+{
+  "name": "bili-open-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Konata9/bili-open-api.git"
+  },
+  "author": "Konata9",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Konata9/bili-open-api/issues"
+  },
+  "homepage": "https://github.com/Konata9/bili-open-api#readme"
+}
